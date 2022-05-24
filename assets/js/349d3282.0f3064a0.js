@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktsukimio=self.webpackChunktsukimio||[]).push([[9383],{6374:function(l){l.exports=JSON.parse('[{"label":"hello","permalink":"/tsukimio/blog/tags/hello","count":2},{"label":"docusaurus","permalink":"/tsukimio/blog/tags/docusaurus","count":3},{"label":"hola","permalink":"/tsukimio/blog/tags/hola","count":1}]')}}]);

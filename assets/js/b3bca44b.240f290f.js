@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktsukimio=self.webpackChunktsukimio||[]).push([[6674],{7619:function(s){s.exports=JSON.parse('{"label":"hello","permalink":"/tsukimio/blog/tags/hello","allTagsPath":"/tsukimio/blog/tags","count":2}')}}]);
