@@ -9,7 +9,7 @@ const config = {
   title: 'tsukimio',
   tagline: 'a collection of android apps and modifications',
   url: 'https://tsukimio.tech',
-  baseUrl: '/tsukimio',
+  baseUrl: '/tsukimio/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
